@@ -1,0 +1,72 @@
+{
+    "viagens": [
+        {
+            "id": 1,
+            "partida": "Manaus-AM",
+            "destino": "Porto Alegre-RS",
+            "data": "11-12-2020",
+            "distancia": 23.56,
+            "valor": 100.50,
+            "passageiro": "João Carlos dos Santos"
+        },
+        {
+            "id": 2,
+            "partida": "Manaus-AM",
+            "destino": "Pirapora-MG",
+            "data": "31-12-2020",
+            "distancia": 29.56,
+            "valor": 150.50,
+            "passageiro": "Fábio da Silva"
+        },
+        {
+            "id": 3,
+            "partida": "Itacoatiara-AM",
+            "destino": "Pirapora-MG",
+            "data": "24-12-2020",
+            "distancia": 127.51,
+            "valor": 350.34,
+            "passageiro": "Ana Castro"
+        },
+        {
+            "id": 4,
+            "partida": "Viamão-RS",
+            "destino": "Porto Alegre-RS",
+            "data": "01-01-2021",
+            "distancia": 344.56,
+            "valor": 100.50,
+            "passageiro": "Marcia de Souza"
+        }
+    ],
+    "destinos": [
+        {
+            "id": 1,
+            "cidade":"Manaus",
+            "descricao": "Capital do estdo do Amazonas, possue diversas atrações turisticas para quem gosta de ter contato com a natureza, como passeios pela floresta e hoteis de selva",
+            "pathImage": "assets/img/manaus.jpg"
+        },
+        {
+            "id": 2,
+            "cidade":"Pirapora",
+            "descricao": "Uma cidade do estdo de Minas Gerais, as margens do rio São Francisco, possue muitas paisagens naturais e uma gastronomia tipicamente mineira.",
+            "pathImage": "assets/img/pirapora.jpg"
+        },
+        {
+            "id": 3,
+            "cidade":"São Paulo",
+            "descricao": "Capital do estado de São Paulo, pousse uma grande diversidade cultural e gastronômica.",
+            "pathImage": "assets/img/saopaulo.jpeg"
+        },
+        {
+            "id": 4,
+            "cidade":"Porto Alegre",
+            "descricao": "Capital do estado do Rio Grande do Sul, cidade bastante arborizada e com muitas praças repletas de opções para o lazer e o esporte.",
+            "pathImage": "assets/img/poa.jpg"
+        },
+        {
+            "id": 5,
+            "cidade":"Rio de Janeiro",
+            "descricao": "Capital do estado do Rio de Janeiro, com muitas praias, é uma cidade muito procurada pelo turista que quer conhecer boas praias.",
+            "pathImage": "assets/img/rio-de-janeiro.jpg"
+        }
+    ]
+}
